@@ -1361,6 +1361,23 @@ header .logo a {
 	color: #FF0077;
 }
 
+.container{
+	width: 80vw;
+	/* border: 1px solid black; */
+	margin: 0px auto;
+}
+.projectsImg{
+	width: 30vw !important;
+	height: 25vh !important;
+}
+
+.myapps{
+	border: 1px solid black;
+	width: 35vw;
+	height: 30vh;
+	margin: 5px 0;
+	border-radius: 5px;
+}
 /**
  * responsive:
  * header styles
