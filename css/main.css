@@ -1220,7 +1220,7 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
+	
 	background-size: 92px 15px;
 }
 
@@ -1326,6 +1326,7 @@ header .logo a {
 	position: absolute;
 	top: 100%;
 	left: 0;
+	
 }
 
 /* dropdown nav */
@@ -1337,6 +1338,7 @@ header .logo a {
 	height: auto;
 	clear: both;
 	display: none;
+	
 }
 .main-navigation > li {
 	display: block;
